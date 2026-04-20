@@ -1,0 +1,8 @@
+name: LuckyBlock
+main: de.diruptio.luckyblock.LuckyBlockPlugin
+bootstrapper: de.diruptio.luckyblock.LuckyBlockBootstrap
+version: "${version}"
+api-version: "${minecraft}"
+load: STARTUP
+authors:
+  - Fabi.exe

@@ -1,0 +1,11 @@
+[versions]
+paperweight-userdev = "2.0.0-beta.21"
+runTask = "3.0.2"
+lodestone = "26.1.2.build.66"
+
+[libraries]
+lodestone = { module = "diruptio.lodestone:dev-bundle", version.ref = "lodestone" }
+
+[plugins]
+paperweight-userdev = { id = "io.papermc.paperweight.userdev", version.ref = "paperweight-userdev" }
+runPaper = { id = "xyz.jpenilla.run-paper", version.ref = "runTask" }
