@@ -1,5 +1,5 @@
 [versions]
-paperweight-userdev = "2.0.0-beta.21"
+paperweight-userdev = "2.0.0-SNAPSHOT"
 runTask = "3.0.2"
 lodestone = "26.1.2.build.75"
 
